@@ -17,4 +17,4 @@
 - 
 ## 📊 Статистика GitHub:
 
-![Твоя статистика](https://github-readme-stats.vercel.app/api?username=ТВОЙ_USERNAME&show_icons=true&theme=radical)
+![Твоя статистика](https://github-readme-stats.vercel.app/api?username=AnAsta6&show_icons=true&theme=radical)
