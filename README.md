@@ -5,16 +5,36 @@
 🎓 Студент 3 курса | 💻 Учусь программировать | 🚀 В постоянном развитии
 
 
-**🛠 Мой стек:**
-- **Основные языки:** Java, Python
-- **Также знаком с:** C++, JavaScript, HTML/CSS
-- **Инструменты:** Git, GitHub
+## 📊 Моя статистика
 
-**📚 Сейчас изучаю:**
-- Углубляюсь в Java и Python
-- Изучаю алгоритмы и структуры данных
-- Осваиваю веб-разработку
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=AnAsta6&theme=dark&hide_border=false)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnAsta6&theme=dark&hide_border=false&layout=compact)
 
-**📊 Статистика GitHub:**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnAsta6&theme=dark&hide_border=false&show_icons=true)
 
-![Твоя статистика](https://github-readme-stats.vercel.app/api?username=AnAsta6&show_icons=true&theme=radical)
+</div>
+
+## 🛠 Мой стек
+
+**💪 Основные языки:**
+- Java
+- Python
+
+**🔧 Дополнительные навыки:**
+- C++
+- JavaScript  
+- HTML/CSS
+- Git & GitHub
+
+## 📚 Сейчас изучаю
+- Алгоритмы и структуры данных
+- Фреймворки Python (Django/Flask)
+- Базы данных
+- Веб-разработку
+
+## 📫 Контакты
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_телеграм)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:твоя@почта.ру)
