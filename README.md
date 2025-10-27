@@ -1,7 +1,7 @@
 # 👨‍💻 Обо мне
 
 <h1 align="center">👋 Привет, я Анастасия</h1>
-<h3 align="center">🎓 Студент 3 курса | 💻 Java & Python разработчик | 🚀 В постоянном развитии</h3>
+<h3 align="center">🎓 Студент 3 курса | 💻 Java & Python | 🚀 В постоянном развитии</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22F729&center=true&vCenter=true&width=435&lines=Java+%26+Python+разработчик;Студент+3+курса;Постоянно+учусь+новому" alt="Typing SVG" />
