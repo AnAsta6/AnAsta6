@@ -4,8 +4,7 @@
 <h3 align="center">🎓 Студент 3 курса | 💻 Java & Python | 🚀 В постоянном развитии</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22F729&center=true&vCenter=true&width=435&lines=Java+%26+Python;Студент+3+курса;Постоянно+учусь+новому" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.heroapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Java+%26+Python;Студент+3+курса;Постоянно+учусь+новому" alt="Typing SVG" />
 
 ---
 
