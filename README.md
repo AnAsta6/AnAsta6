@@ -53,7 +53,9 @@
 - 🗄️ **Базы данных** - SQL, PostgreSQL
 - 🌐 **Веб-технологии** - JavaScript, HTML/CSS
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="100%">
+</p>
 
 ## 📫 Связь со мной
 
@@ -65,7 +67,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="100%">
+</p>
 
 <div align="center">
   
