@@ -7,17 +7,17 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&vCenter=true&width=435&lines=Java+%26+Python;Студент+3+курса;Постоянно+учусь+новому" alt="Typing SVG" />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="75%">
 
 ## 📊 Моя статистика GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AnAsta6&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=AnAsta6&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnAsta6&theme=dark&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnAsta6&theme=dark&hide_border=false&layout=compact)<br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnAsta6&theme=dark&hide_border=false&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnAsta6&theme=dark&hide_border=false&show_icons=true)<br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="75%">
 
 ## 🛠 Мой технический стек
 
@@ -38,7 +38,7 @@
 ![Casio](https://img.shields.io/badge/Casio-A500?style=for-the-badge&logo=calculator&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="75%">
 
 ## 📚 Что сейчас изучаю
 
@@ -48,7 +48,7 @@
 - 🗄️ **Базы данных** - SQL, PostgreSQL
 - 🌐 **Веб-технологии** - JavaScript, HTML/CSS
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="75%">
 
 ## 📫 Связь со мной
 
@@ -56,6 +56,6 @@
 [![Yandex Mail](https://img.shields.io/badge/Yandex_Mail-FC3F1D?style=for-the-badge&logo=yandex&logoColor=white)](mailto:anastaci4derevyannih@yandex.ru)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnAsta6)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="75%">
 
 ⭐️ *Спасибо за визит на мой профиль!* ⭐️
