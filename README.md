@@ -1,35 +1,23 @@
 # 👨‍💻 Обо мне
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/hkPuIqfQK-sAAAAd/pococado-%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0.gif" height="250" />
-</div>
+<img src="https://media1.tenor.com/m/hkPuIqfQK-sAAAAd/pococado-%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0.gif" height="250" />
 
-<h1 align="center">👋 Привет, я Анастасия</h1>
-<h3 align="center">🎓 Студент 3 курса | 💻 Java & Python | 🚀 В постоянном развитии</h3>
+# 👋 Привет, я Анастасия
+## 🎓 Студент 3 курса | 💻 Java & Python | 🚀 В постоянном развитии
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Java+%26+Python;Студент+3+курса;Постоянно+учусь+новому" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&vCenter=true&width=435&lines=Java+%26+Python;Студент+3+курса;Постоянно+учусь+новому" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="100%">
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="100%">
 
 ## 📊 Моя статистика GitHub
 
-<div align="center">
-  
 ![GitHub Streak](https://streak-stats.demolab.com?user=AnAsta6&theme=dark&hide_border=false)
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnAsta6&theme=dark&hide_border=false&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnAsta6&theme=dark&hide_border=false&show_icons=true)
 
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="100%">
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="100%">
 
 ## 🛠 Мой технический стек
 
@@ -49,6 +37,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Casio](https://img.shields.io/badge/Casio-A500?style=for-the-badge&logo=calculator&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ---
 
 ## 📚 Что сейчас изучаю
@@ -59,26 +48,14 @@
 - 🗄️ **Базы данных** - SQL, PostgreSQL
 - 🌐 **Веб-технологии** - JavaScript, HTML/CSS
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="100%">
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="100%">
 
 ## 📫 Связь со мной
-
-<div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Anast.Derevannykh.6@gmail.com)
 [![Yandex Mail](https://img.shields.io/badge/Yandex_Mail-FC3F1D?style=for-the-badge&logo=yandex&logoColor=white)](mailto:anastaci4derevyannih@yandex.ru)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnAsta6)
 
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="100%">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="100%">
-</p>
-
-<div align="center">
-  
 ⭐️ *Спасибо за визит на мой профиль!* ⭐️
-
-</div>
