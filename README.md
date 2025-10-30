@@ -1,5 +1,9 @@
 # 👨‍💻 Обо мне
 
+<div align="center">
+  <img src="https://media1.tenor.com/m/hkPuIqfQK-sAAAAd/pococado-%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0.gif" height="250" />
+</div>
+
 <h1 align="center">👋 Привет, я Анастасия</h1>
 <h3 align="center">🎓 Студент 3 курса | 💻 Java & Python | 🚀 В постоянном развитии</h3>
 
